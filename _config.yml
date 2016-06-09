@@ -1,6 +1,6 @@
 # Website settings
-baseurl: "/portfolio"
-url: "http://www.hunglethanh9.github.io"
+baseurl: " "
+url: "http://www.hunglethanh.xyz"
 
 # Internal nav
 nav:
@@ -21,7 +21,7 @@ description: "The home page of Hung Le Thanh, Technical Evangelist at Google Dev
 # thumbnail_path: "hungle.jpg"
 # bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 hello_startup_url: "http://www.hello-startup.net/"
-website_repo_url: "https://github.com/hungle90"
+website_repo_url: "https://github.com/hunglethanh9"
 # atomic_squirrel_url: "http://www.atomic-squirrel.net/"
 # gruntwork_url: "http://www.gruntwork.io/"
 
