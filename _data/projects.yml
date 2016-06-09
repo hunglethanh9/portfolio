@@ -1,0 +1,13 @@
+- name: "Vietnam Android Academy"
+  date: "2015"
+  description: |
+   I'm the organizer and web developer of Vietnam Android Academy in Vietnam. The Vietnam Android Academy provides a series of Android programming classes. The learning system uses both online and offline method. We will be in Ho Chi Minh City, Hanoi and Danang across the country, starting with the  Udacity Android Development for Beginners course in December 2015.
+
+  url: "http://vietandroid.academy/"
+  image: "vaalogo.png"
+- name: "Google Developer Festival 2015"
+  date: "2015"
+  description: |
+    I'm the organizer and web developer of Google Developer Festival 2015 in Hanoi. GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more. In 2015, the official DevFest Season runs from September 01st through November 30th.
+  url: "http://devfest.vn/"
+  image: "devfest.png"
