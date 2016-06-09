@@ -1,6 +1,6 @@
 # Website settings
-baseurl: "/"
-url: "http://www.ybrikman.com"
+baseurl: "/portfolio"
+url: "http://www.hunglethanh9.github.io"
 
 # Internal nav
 nav:
